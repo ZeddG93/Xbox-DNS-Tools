@@ -1,0 +1,34 @@
+##################################
+#        Forwarding rules        #
+##################################
+
+## This is used to route specific domain names to specific servers.
+## The general format is:
+## <domain> <server address>[:port] [, <server address>[:port]...]
+## IPv6 addresses can be specified by enclosing the address in square brackets.
+
+## In order to enable this feature, the "forwarding_rules" property needs to
+## be set to this file name inside the main configuration file.
+
+## Forward queries for example.com and *.example.com to 9.9.9.9 and 8.8.8.8
+# example.com     9.9.9.9,8.8.8.8
+dl.google.com                                               119.29.29.29
+taobao.com                                                  119.29.29.29
+qq.com                                                      119.29.29.29
+www.qq.com                                                  119.29.29.29
+google.cn                                                   119.29.29.29
+microsoft.com                                               119.29.29.29
+s-microsoft.com                                             119.29.29.29
+windows.com                                                 119.29.29.29
+gstatic.com                                                 119.29.29.29
+www.gstatic.com                                             119.29.29.29
+outlook.com                                                 119.29.29.29
+alicdn.com                                                  119.29.29.29
+www.ithome.com                                              119.29.29.29
+myapp.com                                                   119.29.29.29
+dnspod.cn                                                   119.29.29.29
+pool.ntp.org                                                119.29.29.29
+googleapis.com                                              119.29.29.29
+mozilla.net                                                 119.29.29.29
+archive.ubuntu.com                                          119.29.29.29
+aliyun.com                                                  119.29.29.29

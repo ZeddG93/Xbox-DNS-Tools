@@ -1,0 +1,18 @@
+################################
+#        Cloaking rules        #
+################################
+
+# The following example rules force "safe" (without adult content) search
+# results from Google, Bing and YouTube.
+#
+# This has to be enabled with the `cloaking_rules` parameter in the main
+# configuration file
+
+localhost                127.0.0.1
+
+packages.xboxlive.com   66.119.149.162
+packages.xboxlive.com   66.119.149.154
+update.xboxlive.com     66.119.149.134
+update.xboxlive.com     66.119.149.23
+
+# 测速结果粘贴到此处
