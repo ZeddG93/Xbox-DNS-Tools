@@ -10,9 +10,12 @@
 
 localhost                127.0.0.1
 
-packages.xboxlive.com   66.119.149.162
-packages.xboxlive.com   66.119.149.154
-update.xboxlive.com     66.119.149.134
-update.xboxlive.com     66.119.149.23
+#packages.xboxlive.com   66.119.149.162
+#packages.xboxlive.com   66.119.149.154
+#update.xboxlive.com     66.119.149.134
+#update.xboxlive.com     66.119.149.23
+
+packages.xboxlive.com    13.107.42.15
+update.xboxlive.com      13.107.42.15
 
 # 测速结果粘贴到此处

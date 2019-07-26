@@ -12,23 +12,25 @@
 
 ## Forward queries for example.com and *.example.com to 9.9.9.9 and 8.8.8.8
 # example.com     9.9.9.9,8.8.8.8
-dl.google.com                                               119.29.29.29
-taobao.com                                                  119.29.29.29
-qq.com                                                      119.29.29.29
-www.qq.com                                                  119.29.29.29
-google.cn                                                   119.29.29.29
-microsoft.com                                               119.29.29.29
-s-microsoft.com                                             119.29.29.29
-windows.com                                                 119.29.29.29
-gstatic.com                                                 119.29.29.29
-www.gstatic.com                                             119.29.29.29
-outlook.com                                                 119.29.29.29
-alicdn.com                                                  119.29.29.29
-www.ithome.com                                              119.29.29.29
-myapp.com                                                   119.29.29.29
-dnspod.cn                                                   119.29.29.29
-pool.ntp.org                                                119.29.29.29
-googleapis.com                                              119.29.29.29
-mozilla.net                                                 119.29.29.29
-archive.ubuntu.com                                          119.29.29.29
-aliyun.com                                                  119.29.29.29
+dl.google.com                                               114.114.114.114
+taobao.com                                                  114.114.114.114
+qq.com                                                      114.114.114.114
+www.qq.com                                                  114.114.114.114
+google.cn                                                   114.114.114.114
+microsoft.com                                               114.114.114.114
+s-microsoft.com                                             114.114.114.114
+windows.com                                                 114.114.114.114
+gstatic.com                                                 114.114.114.114
+www.gstatic.com                                             114.114.114.114
+outlook.com                                                 114.114.114.114
+alicdn.com                                                  114.114.114.114
+www.ithome.com                                              114.114.114.114
+myapp.com                                                   114.114.114.114
+dnspod.cn                                                   114.114.114.114
+pool.ntp.org                                                114.114.114.114
+googleapis.com                                              114.114.114.114
+mozilla.net                                                 114.114.114.114
+archive.ubuntu.com                                          114.114.114.114
+aliyun.com                                                  114.114.114.114
+qeeyou.cn                                                   114.114.114.114
+xboxlive.cn                                                 114.114.114.114

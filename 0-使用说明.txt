@@ -1,6 +1,0 @@
-1. 运行脚本“右键该文件Powershell运行.ps1”
-2. 根据提示选择测速方式。
-3. 从report.txt选择最佳测速结果（只需要有域名的那一行），复制粘贴到“cloaking-rules.txt”。
-4. 双击“service-install.bat”。
-5. 设置Windows防火墙，添加其他应用。把“dnscrypt-proxy.exe”加到列表里并勾选专用和公用两个网络。
-6. 把Xbox的DNS地址改成电脑的IP，然后重启Xbox。
