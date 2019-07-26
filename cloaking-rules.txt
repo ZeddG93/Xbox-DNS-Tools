@@ -18,4 +18,8 @@ localhost                127.0.0.1
 packages.xboxlive.com    13.107.42.15
 update.xboxlive.com      13.107.42.15
 
+assets1.xboxlive.com     talkbysony.cname.zedd.dev
+assets2.xboxlive.com     talkbysony.cname.zedd.dev
+dlassets.xboxlive.com    talkbysony.cname.zedd.dev
+
 # 测速结果粘贴到此处
